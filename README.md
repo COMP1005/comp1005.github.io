@@ -1,3 +1,3 @@
-# styles
+# COMP1005 - Fundamentals of Programming
  
-Please use the `gh-pages` branch
+Home of the COMP1005 Practicals
