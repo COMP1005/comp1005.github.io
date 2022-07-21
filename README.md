@@ -4,6 +4,6 @@ Development area for practicals for COMP1005 Fundamentals of Programming at Curt
 
 Lesson Index
 
-- [Prac 0] (https://comp1005.github.io/Prac_Base/)
-- [Introduction to Linux] (https://comp1005.github.io/Prac_Linux/)
+- [Prac Base](https://comp1005.github.io/Prac_Base/)
+- [Introduction to Linux](https://comp1005.github.io/Prac_Linux/)
 
